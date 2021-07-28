@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [REST Countries API with color theme switcher](https://github.com/tinchomartin/api-countries)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-martin.vercel.app/](https://portfolio-martin.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-martin.vercel.app/](https://soymartin.vercel.app/)
 
 - 💬 Ask me about **react, node**
 
