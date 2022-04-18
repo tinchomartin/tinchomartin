@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">JS Developer</h3>
 
-- 🔭 I’m currently working on [Adviency - Lista para regalos de navidad](https://github.com/tinchomartin/adviency)
+- 🔭 I’m currently working on [Challenge de MercadoLibre x Goncy](https://github.com/tinchomartin/meli-challenge)
 
 - 👨‍💻 Some of my projects are available at [https://soymartin.vercel.app/](https://soymartin.vercel.app/)
 
